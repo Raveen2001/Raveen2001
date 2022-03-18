@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning competitive programming.
 - 💬 Ask me about Flutter, React, Database modeling.
 - 📫 How to reach me: <a href="mailto:raveenanbarasan@outlook.com">Mail</a>
-- ⚡ Fun fact: I love singing even if I dont sing well.
+- ⚡ Fun fact: I love singing.
 - ✨ I enjoy creating things that inspires me. 
 
 ## <h1> Tech Stacks I know </h1>
