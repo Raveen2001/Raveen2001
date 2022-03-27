@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raveen2001&label=Profile%20views&color=0e75b6&style=flat" alt="Raveen2001" /> </p>
+
 <div align="center">
    <h1>Hi there, I'm Raveen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -61,6 +63,10 @@
 
 
 ##
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raveen2001&theme=dark" alt="raveen2001" />
+</p>
+
 [![Raveens's GitHub stats](https://github-readme-stats.vercel.app/api?username=raveen2001&hide=prs,issues&count_private=true&show_icons=true&theme=dark)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen2001&hide=html,css,javascript&theme=dark&layout=compact&langs_count=6)]()
 
