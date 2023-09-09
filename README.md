@@ -68,7 +68,7 @@
 </p>
 
 [![Raveens's GitHub stats](https://github-readme-stats.vercel.app/api?username=raveen2001&hide=prs,issues&count_private=true&show_icons=true&theme=dark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen2001&hide=html,css,javascript&theme=dark&layout=compact&langs_count=6)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen2001&hide=html,css,javascript,jupyter&theme=dark&layout=compact&langs_count=6)]()
 
 
 
